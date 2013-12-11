@@ -1,6 +1,6 @@
 # Commons / 共通要素
 
-各トピックレポジトリにサブモジュールとして配置。  
+各トピックレポジトリに`git subtree`を使って共用する。  
 Jadeの`include`を使って各トピックサイトから呼び出し。
 
 ## List of Commons
